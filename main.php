@@ -1,5 +1,7 @@
 <?php
 $dev = "ola mundo";
-echo $dev
+$nome = "eu sou o vini borges";
+echo $dev; " "; $nome;
+
 
 ?>
